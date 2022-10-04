@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_4_0.xsd">
+  <Version>2.4.0</Version>
+  <Observatory>
+    <ResourceID>spase://CNES/Observatory/CDPP-Archive/GEOS-Ground</ResourceID>
+    <ResourceHeader>
+      <ResourceName>GEOS Ground mobile station</ResourceName>
+      <ReleaseDate>2021-10-08T10:47:08Z</ReleaseDate>
+      <Description>Ground based measurements: Ultra low frequency magnetic field components (0.05 - 11.5 Hz), auroral fluctuations and DC magnetic field in coordination with GEOS-1 and GEOS-2</Description>
+      <Contact>
+        <PersonID>spase://CNES/Person/CDPP-Archive/Nicole.Cornilleau-Wehrlin</PersonID>
+        <Role>PrincipalInvestigator</Role>
+      </Contact>
+    </ResourceHeader>
+    <Location>
+      <ObservatoryRegion>Earth.Surface</ObservatoryRegion>
+    </Location>
+    <OperatingSpan>
+      <StartDate>1977-07-04T00:00:00Z</StartDate>
+      <StopDate>1982-04-07T00:00:00Z</StopDate>
+    </OperatingSpan>
+  </Observatory>
+</Spase>
