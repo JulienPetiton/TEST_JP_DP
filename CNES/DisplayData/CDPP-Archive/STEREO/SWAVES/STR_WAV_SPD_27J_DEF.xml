@@ -47,7 +47,7 @@ The following paper should also be used to reference: Bougeret et al., Space Sci
     <TemporalDescription>
       <TimeSpan>
         <StartDate>2006-11-14T00:00:00Z</StartDate>
-        <StopDate>2022-05-01T00:00:00Z</StopDate>
+        <StopDate>2023-10-28T00:00:00Z</StopDate>
       </TimeSpan>
     </TemporalDescription>
     <ObservedRegion>Heliosphere.Remote1AU</ObservedRegion>

@@ -24,7 +24,7 @@ The number of samples in the averages is variable.</Description>
       </Contact>
     </ResourceHeader>
     <AccessInformation>
-      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS</RepositoryID>
+      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS-CDPP</RepositoryID>
       <Availability>Online</Availability>
       <AccessURL>
         <Name>REGARDS</Name>

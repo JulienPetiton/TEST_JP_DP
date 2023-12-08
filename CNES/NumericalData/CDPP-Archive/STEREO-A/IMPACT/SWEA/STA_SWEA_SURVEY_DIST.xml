@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/STEREO-A/IMPACT/SWEA/STA_SWEA_SURVEY_DIST</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO-A IMPACT SWEA Level-1 Survey raw electron distribution functions</ResourceName>
+      <ResourceName>STEREO-A IMPACT SWEA Level-1 Survey raw electron distribution functions in counts</ResourceName>
       <DOI>https://doi.org/10.24400/802406/76ny-zy43</DOI>
       <ReleaseDate>2022-07-26T15:46:42Z</ReleaseDate>
       <Description>This data set contains contains Level 1 3D electron distributions from the IMPACT/SWEA instrument on the STEREO Ahead spacecraft.</Description>

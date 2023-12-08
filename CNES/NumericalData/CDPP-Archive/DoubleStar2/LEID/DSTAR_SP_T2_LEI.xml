@@ -20,7 +20,7 @@ This data sets contains Double Star 2 LEID summary  parameters at 1 min resoluti
       </Contact>
     </ResourceHeader>
     <AccessInformation>
-      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS</RepositoryID>
+      <RepositoryID>spase://CNES/Repository/CDPP-Archive/REGARDS-CDPP</RepositoryID>
       <Availability>Online</Availability>
       <AccessURL>
         <Name>REGARDS</Name>

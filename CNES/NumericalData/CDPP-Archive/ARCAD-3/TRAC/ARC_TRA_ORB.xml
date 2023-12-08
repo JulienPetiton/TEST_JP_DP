@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/ARCAD-3/TRAC/ARC_TRA_ORB</ResourceID>
     <ResourceHeader>
-      <ResourceName>Magnetic Field</ResourceName>
+      <ResourceName>ARCAD3 TRAC Magnetic Field</ResourceName>
       <DOI>https://doi.org/10.24400/802406/qm8g-n5w4</DOI>
       <ReleaseDate>2022-03-22T09:14:52Z</ReleaseDate>
       <Description>The aim of the TRAC data set from the AUREOL-3 magnetometer is to measure the perturbations of the local geomagnetic fiels that result from the flow of Birkeland currents parallel to the field lines.

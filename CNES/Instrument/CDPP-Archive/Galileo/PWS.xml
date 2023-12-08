@@ -19,20 +19,17 @@ For example, it is known that the kilometric and decametric radio emissions asso
 With the Galileo plasma wave instrument, it should be possible to provide remote sensing of substorms in a manner comparable to the remote sensing of terrestrial auroral kilometric radiation, which is known to be closely associated with terrestrial substorms. To carry out comprehensive studies of plasma waves and radio emissions at Jupiter, the Galileo plasma wave instrument incorporates several new features that provide improvements over the previous Voyager 1 and 2 measurements.
 
 These improvements include:
-
 -    nearly simultaneous electric and magnetic field measurements to distinguish electrostatic waves from electromagnetic waves,
-
 -    direction finding measurements to determine source locations, and
-
 -    better frequency and time resolution to resolve fine structure in the plasma wave and radio emission spectrum.
 
-The main instrument package and the electric dipole antenna system were designed and constructed at the University of Iowa, and the search coil magnetic antenna was provided by the Centre de Recherches en Physique de l'Environnement terrestre et planétaire (CRPE), which is now the Centre d'Etude des environnements Terrestre et Planétaire (CETP).</Description>
+The main instrument package and the electric dipole antenna system were designed and constructed at the University of Iowa, and the search coil magnetic antenna was provided by the "Centre de Recherches en Physique de l'Environnement terrestre et planétaire" (CRPE), then the "Centre d'Etude des environnements Terrestre et Planétaire" (CETP) before joining the "Laboratoire Atmosphères, Observations Spatiales" (LATMOS) in part.</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-Archive/Philippe.Louarn</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <Contact>
-        <PersonID>spase://CNES/Person/CDPP-Archive/Undefined</PersonID>
+        <PersonID>spase://CNES/Person/CDPP-Archive/William.S.Kurth</PersonID>
         <Role>CoInvestigator</Role>
       </Contact>
     </ResourceHeader>

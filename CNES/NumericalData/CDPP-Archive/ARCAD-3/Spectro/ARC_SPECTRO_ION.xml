@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/ARCAD-3/Spectro/ARC_SPECTRO_ION</ResourceID>
     <ResourceHeader>
-      <ResourceName>Auroral Ion Mass/Energy Spectra</ResourceName>
+      <ResourceName>ARCAD3 SPECTRO ION : Auroral Ion Mass/Energy Spectra</ResourceName>
       <DOI>https://doi.org/10.24400/802406/6rmb-6cvv</DOI>
       <ReleaseDate>2022-03-22T09:14:52Z</ReleaseDate>
       <Description>This data set contains ARCAD-3 Spectro Auroral Ion Mass/Energy Spectra. 

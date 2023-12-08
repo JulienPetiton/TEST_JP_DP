@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-Archive/ARCAD-3/Spectro/ARC_SPECTRO_ROBE</ResourceID>
     <ResourceHeader>
-      <ResourceName>Auroral Ion/Electron Energy Spectra</ResourceName>
+      <ResourceName>ARCAD3 SPECTRO ROBE : Auroral Ion/Electron Energy Spectra</ResourceName>
       <DOI>https://doi.org/10.24400/802406/ry0j-v1at</DOI>
       <ReleaseDate>2022-03-22T09:14:52Z</ReleaseDate>
       <Description>This data set contains ARCAD-3 Auroral Ion/Electron Energy Spectra from ROBE experiment. 
